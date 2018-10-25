@@ -1,5 +1,4 @@
 ## Initial guide for SpecFlow:
----------------------------
 
 Setting up the enviroment:
 --------------------------
