@@ -1,0 +1,61 @@
+﻿2018-10-25T12:14:00.7994419+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-10-25T12:14:00.8024467+02:00;VSTestExecutionThread;Info;TestAdapter Location: c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-10-25T12:14:00.9911069+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-10-25T12:14:00.9921109+02:00;VSTestExecutionThread;Info;SpecRun: running tests in c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.SpecFlow\bin\Debug\Devon4Net.SpecFlow.dll
+2018-10-25T12:14:00.9921109+02:00;VSTestExecutionThread;Info;Profile: Devon4Net.SpecFlow
+2018-10-25T12:14:12.0670631+02:00;Thread#13;Info;starting test run
+2018-10-25T12:14:12.0740827+02:00;Thread#13;Info;Discovering target: Default
+2018-10-25T12:14:12.0740827+02:00;Thread#13;Info;Discovering tests from assembly: c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.SpecFlow\bin\Debug\Devon4Net.SpecFlow.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Devon4Net.SpecFlow/Devon4Net.SpecFlow - 
+#1: Default - 
+#2: Devon4Net.SpecFlow - 
+#14: SpecFlowFeatureExampleTest - 
+#15: Add two numbers - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureExampleTest/Scenario:Add+two+numbers
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #15 from normal test queue 
+Thread#0:Scheduler: considering testitem #15 for thread 0
+Thread#0:TestItem#15:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#15:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#15:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #15 for thread 0
+Thread#0:Scheduler: Test #15 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for Devon4Net.SpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #15/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I have entered 50 as first element of calculator
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.GivenIHaveEnteredAsFirstElementOfCalculator(50) (0,0s)
+Thread#0:B:And I have entered 70 as second element of calculator
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.GivenIHaveEnteredAsSecondElementOfCalculator(70) (0,0s)
+Thread#0:B:When I press add
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.WhenIPressAdd() (0,0s)
+Thread#0:B:Then the result should be 120 on the screen
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.ThenTheResultShouldBeOnTheScreen(120) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #15/0 is finished on thread #0 as Succeeded within 0,5966194 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2018-10-25T12:14:13.2894117+02:00;Thread#13;Info;test run finished
+2018-10-25T12:14:13.2904123+02:00;Thread#13;Info;publishing test results
+2018-10-25T12:14:13.3235000+02:00;Thread#13;Info;test results published
+2018-10-25T12:14:13.3235000+02:00;Thread#13;Info;generating reports
+2018-10-25T12:14:13.3305218+02:00;Thread#13;Info;creating 1 report(s)
+2018-10-25T12:14:13.3305218+02:00;Thread#13;Info;generate Report ReportTemplate.cshtml
+2018-10-25T12:14:14.8412336+02:00;Thread#13;Info;reports generated
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2018-10-25T12:14:14.8442342+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-10-25T12:14:14.8442342+02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Josep\Projects\SpecFlow\Base_Specflow1\TestResults\Devon4Net.SpecFlow_Devon4Net.SpecFlow_2018-10-25T121401.html'
+2018-10-25T12:14:14.8547622+02:00;VSTestExecutionThread;Info;Log file: file:///C:\Josep\Projects\SpecFlow\Base_Specflow1\TestResults\Devon4Net.SpecFlow_Devon4Net.SpecFlow_2018-10-25T121401.log

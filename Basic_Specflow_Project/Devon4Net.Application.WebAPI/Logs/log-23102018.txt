@@ -1,0 +1,93 @@
+2018-10-23 09:57:13.052 +02:00 [INF] Saved 0 entities to in-memory store.
+2018-10-23 09:57:13.389 +02:00 [INF] Saved 1 entities to in-memory store.
+2018-10-23 09:57:13.408 +02:00 [INF] Saved 1 entities to in-memory store.
+2018-10-23 09:57:13.445 +02:00 [INF] Saved 3 entities to in-memory store.
+2018-10-23 09:57:13.457 +02:00 [INF] Saved 1 entities to in-memory store.
+2018-10-23 09:57:13.458 +02:00 [INF] Saved 1 entities to in-memory store.
+2018-10-23 09:57:13.459 +02:00 [INF] Saved 3 entities to in-memory store.
+2018-10-23 09:57:39.940 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-10-23 09:57:40.752 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-10-23 09:57:40.797 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-10-23 09:57:40.806 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2018-10-23 09:57:40.851 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-10-23 09:57:40.854 +02:00 [INF] The file /favicon-16x16.png was not modified
+2018-10-23 09:57:58.530 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-10-23 09:57:58.613 +02:00 [INF] Policy execution successful.
+2018-10-23 09:57:58.668 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Login | method: Login| ActionArguments: 
+	
+Key: loginDto, 	
+Value: 	
+UserName: waiter	
+Password: waiter, 
+2018-10-23 09:57:58.670 +02:00 [INF] Action: OnActionExecuting | Controller: Login | method: Login| ActionArguments: 
+	
+Key: loginDto, 	
+Value: 	
+UserName: waiter	
+Password: waiter, 
+2018-10-23 09:58:19.126 +02:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2018-10-23 09:58:19.172 +02:00 [DBG] Result: 200 | Value: eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxM2EzYTBjMy01OTJjLTRlNzEtOTBiMi1iN2YxMDgwN2RjNjciLCJzdWIiOiJ3YWl0ZXIiLCJpYXQiOjE1NDAyODE0OTksIlVzZXJJZCI6ImU4YmViZmFlLTJlMGUtNDRlMi05ZDEwLWNkODM5YmZlYzMxZiIsIlVzZXJOYW1lIjoid2FpdGVyIiwiVXNlckVtYWlsIjoid2FpdGVyQG10cy5jb20iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJ3YWl0ZXIiLCJyb2xlIjoid2FpdGVyIiwiZXhwIjoxNTQwMjgxNzk5LCJpc3MiOiJNeVRoYWlTdGFyIiwiYXVkIjoiTXlUaGFpU3RhciJ9.eHA0mUQRmNnlxwgzuJDPDM4mBWUY5dNZpIo7iI1FwmtlavUtl2kmNw8XzlJ1PrQqaoi4wAGeBxFRJA0yLrU7jw
+2018-10-23 09:58:19.175 +02:00 [DBG] Result: 200 | Value: eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxM2EzYTBjMy01OTJjLTRlNzEtOTBiMi1iN2YxMDgwN2RjNjciLCJzdWIiOiJ3YWl0ZXIiLCJpYXQiOjE1NDAyODE0OTksIlVzZXJJZCI6ImU4YmViZmFlLTJlMGUtNDRlMi05ZDEwLWNkODM5YmZlYzMxZiIsIlVzZXJOYW1lIjoid2FpdGVyIiwiVXNlckVtYWlsIjoid2FpdGVyQG10cy5jb20iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJ3YWl0ZXIiLCJyb2xlIjoid2FpdGVyIiwiZXhwIjoxNTQwMjgxNzk5LCJpc3MiOiJNeVRoYWlTdGFyIiwiYXVkIjoiTXlUaGFpU3RhciJ9.eHA0mUQRmNnlxwgzuJDPDM4mBWUY5dNZpIo7iI1FwmtlavUtl2kmNw8XzlJ1PrQqaoi4wAGeBxFRJA0yLrU7jw
+2018-10-23 09:58:19.182 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2018-10-23 09:58:19.186 +02:00 [DBG] Result: 200 | Value: eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxM2EzYTBjMy01OTJjLTRlNzEtOTBiMi1iN2YxMDgwN2RjNjciLCJzdWIiOiJ3YWl0ZXIiLCJpYXQiOjE1NDAyODE0OTksIlVzZXJJZCI6ImU4YmViZmFlLTJlMGUtNDRlMi05ZDEwLWNkODM5YmZlYzMxZiIsIlVzZXJOYW1lIjoid2FpdGVyIiwiVXNlckVtYWlsIjoid2FpdGVyQG10cy5jb20iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJ3YWl0ZXIiLCJyb2xlIjoid2FpdGVyIiwiZXhwIjoxNTQwMjgxNzk5LCJpc3MiOiJNeVRoYWlTdGFyIiwiYXVkIjoiTXlUaGFpU3RhciJ9.eHA0mUQRmNnlxwgzuJDPDM4mBWUY5dNZpIo7iI1FwmtlavUtl2kmNw8XzlJ1PrQqaoi4wAGeBxFRJA0yLrU7jw
+2018-10-23 09:58:56.246 +02:00 [INF] Policy execution successful.
+2018-10-23 09:58:56.263 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Login | method: Login| ActionArguments: 
+	
+Key: loginDto, 	
+Value: 	
+UserName: waiter	
+Password: asdsa, 
+2018-10-23 09:58:56.278 +02:00 [INF] Action: OnActionExecuting | Controller: Login | method: Login| ActionArguments: 
+	
+Key: loginDto, 	
+Value: 	
+UserName: waiter	
+Password: asdsa, 
+2018-10-23 09:59:01.152 +02:00 [WRN] User e8bebfae-2e0e-44e2-9d10-cd839bfec31f failed to provide the correct password.
+2018-10-23 09:59:09.478 +02:00 [DBG] Result: 401 | Value: Login Error
+2018-10-23 09:59:09.484 +02:00 [DBG] Result: 401 | Value: Login Error
+2018-10-23 09:59:09.488 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2018-10-23 09:59:09.489 +02:00 [DBG] Result: 401 | Value: Login Error
+2018-10-23 13:58:55.561 +02:00 [INF] Saved 0 entities to in-memory store.
+2018-10-23 13:58:55.816 +02:00 [INF] Saved 1 entities to in-memory store.
+2018-10-23 13:58:55.825 +02:00 [INF] Saved 1 entities to in-memory store.
+2018-10-23 13:58:55.852 +02:00 [INF] Saved 3 entities to in-memory store.
+2018-10-23 13:58:55.863 +02:00 [INF] Saved 1 entities to in-memory store.
+2018-10-23 13:58:55.863 +02:00 [INF] Saved 1 entities to in-memory store.
+2018-10-23 13:58:55.864 +02:00 [INF] Saved 3 entities to in-memory store.
+2018-10-23 13:59:57.202 +02:00 [INF] AuthenticationScheme: Identity.Application signed out.
+2018-10-23 13:59:57.206 +02:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-10-23 13:59:57.206 +02:00 [INF] AuthenticationScheme: Identity.TwoFactorUserId signed out.
+2018-10-23 13:59:57.207 +02:00 [INF] Identity.Application was not authenticated. Failure message: No principal.
+2018-10-23 13:59:57.373 +02:00 [INF] Policy execution successful.
+2018-10-23 13:59:57.444 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Login | method: Login| ActionArguments: 
+	
+Key: loginDto, 	
+Value: 	
+UserName: waiter	
+Password: waiter, 
+2018-10-23 14:00:35.962 +02:00 [INF] Saved 0 entities to in-memory store.
+2018-10-23 14:00:36.215 +02:00 [INF] Saved 1 entities to in-memory store.
+2018-10-23 14:00:36.226 +02:00 [INF] Saved 1 entities to in-memory store.
+2018-10-23 14:00:36.265 +02:00 [INF] Saved 3 entities to in-memory store.
+2018-10-23 14:00:36.276 +02:00 [INF] Saved 1 entities to in-memory store.
+2018-10-23 14:00:36.277 +02:00 [INF] Saved 1 entities to in-memory store.
+2018-10-23 14:00:36.277 +02:00 [INF] Saved 3 entities to in-memory store.
+2018-10-23 14:00:39.477 +02:00 [INF] AuthenticationScheme: Identity.Application signed out.
+2018-10-23 14:00:39.479 +02:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-10-23 14:00:39.480 +02:00 [INF] AuthenticationScheme: Identity.TwoFactorUserId signed out.
+2018-10-23 14:00:39.481 +02:00 [INF] Identity.Application was not authenticated. Failure message: No principal.
+2018-10-23 14:00:39.602 +02:00 [INF] Policy execution successful.
+2018-10-23 14:00:39.667 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Login | method: Login| ActionArguments: 
+	
+Key: loginDto, 	
+Value: 	
+UserName: waiter	
+Password: waiter, 
+2018-10-23 14:00:39.670 +02:00 [INF] Action: OnActionExecuting | Controller: Login | method: Login| ActionArguments: 
+	
+Key: loginDto, 	
+Value: 	
+UserName: waiter	
+Password: waiter, 
+2018-10-23 14:00:47.642 +02:00 [INF] AuthenticationScheme: Identity.Application signed in.

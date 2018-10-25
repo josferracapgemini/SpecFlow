@@ -1,0 +1,12 @@
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Business.Common\bin\Debug\netstandard2.0\Devon4Net.Business.Common.deps.json
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Business.Common\bin\Debug\netstandard2.0\Devon4Net.Business.Common.dll
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Business.Common\bin\Debug\netstandard2.0\Devon4Net.Business.Common.pdb
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Business.Common\bin\Debug\netstandard2.0\Devon4Net.Domain.Entities.dll
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Business.Common\bin\Debug\netstandard2.0\Devon4Net.Domain.Entities.pdb
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Business.Common\obj\Debug\netstandard2.0\Devon4Net.Business.Common.csprojAssemblyReference.cache
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Business.Common\obj\Debug\netstandard2.0\Devon4Net.Business.Common.csproj.CoreCompileInputs.cache
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Business.Common\obj\Debug\netstandard2.0\Devon4Net.Business.Common.AssemblyInfoInputs.cache
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Business.Common\obj\Debug\netstandard2.0\Devon4Net.Business.Common.AssemblyInfo.cs
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Business.Common\obj\Debug\netstandard2.0\Devon4Net.Business.Common.csproj.CopyComplete
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Business.Common\obj\Debug\netstandard2.0\Devon4Net.Business.Common.dll
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Business.Common\obj\Debug\netstandard2.0\Devon4Net.Business.Common.pdb

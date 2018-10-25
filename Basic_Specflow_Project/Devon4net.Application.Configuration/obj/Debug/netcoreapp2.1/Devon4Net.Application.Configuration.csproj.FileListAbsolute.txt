@@ -1,0 +1,16 @@
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\bin\Debug\netcoreapp2.1\Devon4Net.Application.Configuration.deps.json
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\bin\Debug\netcoreapp2.1\Devon4Net.Application.Configuration.runtimeconfig.json
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\bin\Debug\netcoreapp2.1\Devon4Net.Application.Configuration.runtimeconfig.dev.json
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\bin\Debug\netcoreapp2.1\Devon4Net.Application.Configuration.dll
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\bin\Debug\netcoreapp2.1\Devon4Net.Application.Configuration.pdb
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\bin\Debug\netcoreapp2.1\Devon4Net.Business.Common.dll
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\bin\Debug\netcoreapp2.1\Devon4Net.Domain.Entities.dll
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\bin\Debug\netcoreapp2.1\Devon4Net.Business.Common.pdb
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\bin\Debug\netcoreapp2.1\Devon4Net.Domain.Entities.pdb
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\obj\Debug\netcoreapp2.1\Devon4Net.Application.Configuration.csprojAssemblyReference.cache
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\obj\Debug\netcoreapp2.1\Devon4Net.Application.Configuration.csproj.CoreCompileInputs.cache
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\obj\Debug\netcoreapp2.1\Devon4Net.Application.Configuration.AssemblyInfoInputs.cache
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\obj\Debug\netcoreapp2.1\Devon4Net.Application.Configuration.AssemblyInfo.cs
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\obj\Debug\netcoreapp2.1\Devon4Net.Application.Configuration.csproj.CopyComplete
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\obj\Debug\netcoreapp2.1\Devon4Net.Application.Configuration.dll
+c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.Application.Configuration\obj\Debug\netcoreapp2.1\Devon4Net.Application.Configuration.pdb

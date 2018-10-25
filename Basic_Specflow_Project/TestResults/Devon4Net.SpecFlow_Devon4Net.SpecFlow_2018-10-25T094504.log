@@ -1,0 +1,318 @@
+﻿2018-10-25T09:45:04.7592729+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-10-25T09:45:04.7632832+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-10-25T09:45:04.7632832+02:00;VSTestExecutionThread;Info;TestAdapter Location: c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-10-25T09:45:04.8948069+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-10-25T09:45:04.8948069+02:00;VSTestExecutionThread;Info;SpecRun: running tests in c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.SpecFlow\bin\Debug\Devon4Net.SpecFlow.dll
+2018-10-25T09:45:04.8948069+02:00;VSTestExecutionThread;Info;Profile: Devon4Net.SpecFlow
+2018-10-25T09:45:17.9565653+02:00;Thread#15;Info;starting test run
+2018-10-25T09:45:17.9645878+02:00;Thread#15;Info;Discovering target: Default
+2018-10-25T09:45:17.9645878+02:00;Thread#15;Info;Discovering tests from assembly: c:\Josep\Projects\SpecFlow\Base_Specflow1\Devon4Net.SpecFlow\bin\Debug\Devon4Net.SpecFlow.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Devon4Net.SpecFlow/Devon4Net.SpecFlow - 
+#1: Default - 
+#2: Devon4Net.SpecFlow - 
+#3: SpecFlowFeatureLogin - 
+#12: SpecFlowFeatureExampleTest - 
+#4: Waiter logs in - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureLogin/Scenario:Waiter+logs+in
+#5: Waiter logs in error - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureLogin/Scenario:Waiter+logs+in+error
+#6: User0 logs in - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureLogin/Scenario:User0+logs+in
+#7: User0 logs in wrong - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureLogin/Scenario:User0+logs+in+wrong
+#8: User logs in correctly, waiter - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureLogin/Scenario:User+logs+in+correctly%2c+waiter
+#9: User logs in correctly, user0 - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureLogin/Scenario:User+logs+in+correctly%2c+user0
+#10: User logs in fails, waiter - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureLogin/Scenario:User+logs+in+fails%2c+waiter
+#11: User logs in fails, user0 - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureLogin/Scenario:User+logs+in+fails%2c+user0
+#13: Add two numbers - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureExampleTest/Scenario:Add+two+numbers
+#14: Add two numbers wrong - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureExampleTest/Scenario:Add+two+numbers+wrong
+#15: JSON object example - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureExampleTest/Scenario:JSON+object+example
+#16: Serie of elements example - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureExampleTest/Scenario:Serie+of+elements+example
+#17: Table of elements example - TestAssembly:Devon4Net.SpecFlow/Feature:SpecFlowFeatureExampleTest/Scenario:Table+of+elements+example
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for Devon4Net.SpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I have entered "waiter" into the username
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoTheUsername("waiter") (0,6s)
+Thread#0:B:And I have entered "waiter" into the password
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoThePassword("waiter") (0,0s)
+Thread#0:B:And The result of login process is "true"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenTheResultOfLoginProcessIs(True) (0,0s)
+Thread#0:B:When I press login
+Thread#0:T:done: SpecFlowFeatureLoginSteps.WhenIPressLogin() (0,0s)
+Thread#0:B:Then the result should be "true"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.ThenTheResultShouldBe(True) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 1,0419868 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Given I have entered "waiter" into the username
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoTheUsername("waiter") (0,0s)
+Thread#0:B:And I have entered "aaaa" into the password
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoThePassword("aaaa") (0,0s)
+Thread#0:B:And The result of login process is "false"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenTheResultOfLoginProcessIs(False) (0,0s)
+Thread#0:B:When I press login
+Thread#0:T:done: SpecFlowFeatureLoginSteps.WhenIPressLogin() (0,0s)
+Thread#0:B:Then the result should not be "true"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.ThenTheResultShouldNotBe(True) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,0060171 seconds
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:B:Given I have entered "user0" into the username
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoTheUsername("user0") (0,0s)
+Thread#0:B:And I have entered "password" into the password
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoThePassword("password") (0,0s)
+Thread#0:B:And The result of login process is "true"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenTheResultOfLoginProcessIs(True) (0,0s)
+Thread#0:B:When I press login
+Thread#0:T:done: SpecFlowFeatureLoginSteps.WhenIPressLogin() (0,0s)
+Thread#0:B:Then the result should be "true"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.ThenTheResultShouldBe(True) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #7 from normal test queue 
+Thread#0:Scheduler: considering testitem #7 for thread 0
+Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #7 for thread 0
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 0,0040148 seconds
+Thread#0: Test #7/0 is started on thread #0
+Thread#0:B:Given I have entered "user0" into the username
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoTheUsername("user0") (0,0s)
+Thread#0:B:And I have entered "password" into the password
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoThePassword("password") (0,0s)
+Thread#0:B:And The result of login process is "false"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenTheResultOfLoginProcessIs(False) (0,0s)
+Thread#0:B:When I press login
+Thread#0:T:done: SpecFlowFeatureLoginSteps.WhenIPressLogin() (0,0s)
+Thread#0:B:Then the result should not be "true"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.ThenTheResultShouldNotBe(True) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #8 from normal test queue 
+Thread#0:Scheduler: considering testitem #8 for thread 0
+Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #8 for thread 0
+Thread#0:Scheduler: Test #8 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 0,003004 seconds
+Thread#0: Test #8/0 is started on thread #0
+Thread#0:B:Given I have entered waiter into the username TableExample
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoTheUsernameTableExample("waiter") (0,0s)
+Thread#0:B:And I have entered waiter into the password TableExample
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoThePasswordTableExample("waiter") (0,0s)
+Thread#0:B:And The result of login process is "true"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenTheResultOfLoginProcessIs(True) (0,0s)
+Thread#0:B:When I press login
+Thread#0:T:done: SpecFlowFeatureLoginSteps.WhenIPressLogin() (0,0s)
+Thread#0:B:Then the result should be "true"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.ThenTheResultShouldBe(True) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #9 from normal test queue 
+Thread#0:Scheduler: considering testitem #9 for thread 0
+Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #9 for thread 0
+Thread#0:Scheduler: Test #9 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 0,0060167 seconds
+Thread#0: Test #9/0 is started on thread #0
+Thread#0:B:Given I have entered user0 into the username TableExample
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoTheUsernameTableExample("user0") (0,0s)
+Thread#0:B:And I have entered password into the password TableExample
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoThePasswordTableExample("password") (0,0s)
+Thread#0:B:And The result of login process is "true"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenTheResultOfLoginProcessIs(True) (0,0s)
+Thread#0:B:When I press login
+Thread#0:T:done: SpecFlowFeatureLoginSteps.WhenIPressLogin() (0,0s)
+Thread#0:B:Then the result should be "true"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.ThenTheResultShouldBe(True) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #10 from normal test queue 
+Thread#0:Scheduler: considering testitem #10 for thread 0
+Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #10 for thread 0
+Thread#0:Scheduler: Test #10 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #9/0 is finished on thread #0 as Succeeded within 0,0040092 seconds
+Thread#0: Test #10/0 is started on thread #0
+Thread#0:B:Given I have entered waiter into the username TableExample
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoTheUsernameTableExample("waiter") (0,0s)
+Thread#0:B:And I have entered aaa into the password TableExample
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoThePasswordTableExample("aaa") (0,0s)
+Thread#0:B:And The result of login process is "false"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenTheResultOfLoginProcessIs(False) (0,0s)
+Thread#0:B:When I press login
+Thread#0:T:done: SpecFlowFeatureLoginSteps.WhenIPressLogin() (0,0s)
+Thread#0:B:Then the result should not be "true"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.ThenTheResultShouldNotBe(True) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #11 from normal test queue 
+Thread#0:Scheduler: considering testitem #11 for thread 0
+Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #11 for thread 0
+Thread#0:Scheduler: Test #11 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #10/0 is finished on thread #0 as Succeeded within 0,0095312 seconds
+Thread#0: Test #11/0 is started on thread #0
+Thread#0:B:Given I have entered user0 into the username TableExample
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoTheUsernameTableExample("user0") (0,0s)
+Thread#0:B:And I have entered aaa into the password TableExample
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenIHaveEnteredIntoThePasswordTableExample("aaa") (0,0s)
+Thread#0:B:And The result of login process is "false"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.GivenTheResultOfLoginProcessIs(False) (0,0s)
+Thread#0:B:When I press login
+Thread#0:T:done: SpecFlowFeatureLoginSteps.WhenIPressLogin() (0,0s)
+Thread#0:B:Then the result should not be "true"
+Thread#0:T:done: SpecFlowFeatureLoginSteps.ThenTheResultShouldNotBe(True) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #13 from normal test queue 
+Thread#0:Scheduler: considering testitem #13 for thread 0
+Thread#0:TestItem#13:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#13:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#13:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #13 for thread 0
+Thread#0:Scheduler: Test #13 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #11/0 is finished on thread #0 as Succeeded within 0,0040107 seconds
+Thread#0: Test #13/0 is started on thread #0
+Thread#0:B:Given I have entered 50 as first element of calculator
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.GivenIHaveEnteredAsFirstElementOfCalculator(50) (0,0s)
+Thread#0:B:And I have entered 70 as second element of calculator
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.GivenIHaveEnteredAsSecondElementOfCalculator(70) (0,0s)
+Thread#0:B:When I press add
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.WhenIPressAdd() (0,0s)
+Thread#0:B:Then the result should be 120 on the screen
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.ThenTheResultShouldBeOnTheScreen(120) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #14 from normal test queue 
+Thread#0:Scheduler: considering testitem #14 for thread 0
+Thread#0:TestItem#14:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#14:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#14:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #14 for thread 0
+Thread#0:Scheduler: Test #14 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #13/0 is finished on thread #0 as Succeeded within 0,0045101 seconds
+Thread#0: Test #14/0 is started on thread #0
+Thread#0:B:Given I have entered 50 as first element of calculator
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.GivenIHaveEnteredAsFirstElementOfCalculator(50) (0,0s)
+Thread#0:B:And I have entered 70 as second element of calculator
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.GivenIHaveEnteredAsSecondElementOfCalculator(70) (0,0s)
+Thread#0:B:When I press add
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.WhenIPressAdd() (0,0s)
+Thread#0:B:Then the result should not be 150 on the screen
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.ThenTheResultShouldNotBeOnTheScreen(150) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #15 from normal test queue 
+Thread#0:Scheduler: considering testitem #15 for thread 0
+Thread#0:TestItem#15:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#15:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#15:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #15 for thread 0
+Thread#0:Scheduler: Test #15 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #14/0 is finished on thread #0 as Succeeded within 0,0045151 seconds
+Thread#0: Test #15/0 is started on thread #0
+Thread#0:B:Given I have recived the following JSON object: '{"number1":50,"number2":70}'
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.GivenIHaveRecivedTheFollowingJSONObject("{"number1":50,"nu...") (0,4s)
+Thread#0:B:When I press add
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.WhenIPressAdd() (0,0s)
+Thread#0:B:Then the result should be 120 on the screen
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.ThenTheResultShouldBeOnTheScreen(120) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #16 from normal test queue 
+Thread#0:Scheduler: considering testitem #16 for thread 0
+Thread#0:TestItem#16:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#16:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#16:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #16 for thread 0
+Thread#0:Scheduler: Test #16 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #15/0 is finished on thread #0 as Succeeded within 0,4109594 seconds
+Thread#0: Test #16/0 is started on thread #0
+Thread#0:B:Given I entered the following serie: "50,60,10"
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.GivenIEnteredTheFollowingSerie("50,60,10") (0,0s)
+Thread#0:B:When I press addSerie
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.WhenIPressAddSerie() (0,0s)
+Thread#0:B:Then the result should be 120 on the screen
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.ThenTheResultShouldBeOnTheScreen(120) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #17 from normal test queue 
+Thread#0:Scheduler: considering testitem #17 for thread 0
+Thread#0:TestItem#17:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#17:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#17:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #17 for thread 0
+Thread#0:Scheduler: Test #17 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #16/0 is finished on thread #0 as Succeeded within 0,0030109 seconds
+Thread#0: Test #17/0 is started on thread #0
+Thread#0:B:Given I entered numbers
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | elements |
+Thread#0:B:  | 50       |
+Thread#0:B:  | 50       |
+Thread#0:B:  | 20       |
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.GivenIEnteredNumbers(<table>) (0,0s)
+Thread#0:B:When I press addTableElements
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.WhenIPressAddTableElements() (0,0s)
+Thread#0:B:Then the result should be 120 on the screen
+Thread#0:T:done: SpecFlowFeatureExampleTestSteps.ThenTheResultShouldBeOnTheScreen(120) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #17/0 is finished on thread #0 as Succeeded within 0,0080179 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2018-10-25T09:45:19.6976236+02:00;Thread#15;Info;test run finished
+2018-10-25T09:45:19.6985940+02:00;Thread#15;Info;publishing test results
+2018-10-25T09:45:19.7311795+02:00;Thread#15;Info;test results published
+2018-10-25T09:45:19.7311795+02:00;Thread#15;Info;generating reports
+2018-10-25T09:45:19.7367488+02:00;Thread#15;Info;creating 1 report(s)
+2018-10-25T09:45:19.7367488+02:00;Thread#15;Info;generate Report ReportTemplate.cshtml
+2018-10-25T09:45:21.0988951+02:00;Thread#15;Info;reports generated
+Total: 13
+Succeeded: 13
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2018-10-25T09:45:21.1009631+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-10-25T09:45:21.1019025+02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Josep\Projects\SpecFlow\Base_Specflow1\TestResults\Devon4Net.SpecFlow_Devon4Net.SpecFlow_2018-10-25T094504.html'
+2018-10-25T09:45:21.1179069+02:00;VSTestExecutionThread;Info;Log file: file:///C:\Josep\Projects\SpecFlow\Base_Specflow1\TestResults\Devon4Net.SpecFlow_Devon4Net.SpecFlow_2018-10-25T094504.log
