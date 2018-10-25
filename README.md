@@ -1,7 +1,6 @@
-## Initial guide for SpecFlow:
+# Initial guide for SpecFlow:
 
-Setting up the enviroment:
---------------------------
+## Setting up the enviroment:
 
 - Go to Tools > Extensions and Updates…
 	- Install SpecFlow for Visual Studio 2017
@@ -13,8 +12,8 @@ Setting up the enviroment:
 	- SpecRun.SpecFlow
 	- Moq
 
-Folders Organization:
----------------------
+## Folders Organization:
+
 - Project
 	- SpecFlow
 		- Code of the user story from JIRA -> e.g.(KSAPP_131)
@@ -28,8 +27,7 @@ Folders Organization:
 	- Utils
 	- …
 
-How to use SpecFlow:
---------------------
+## How to use SpecFlow:
 
 1 - Create the feature file -> right click on the "Features" folder > Add > New Item > Select"SpecFlow Feature File"
 
@@ -55,22 +53,19 @@ How to use SpecFlow:
 - Then …
 - Define your Asserts that prove your result is what you expected.
 
-Run the test:
--------------
+## Run the test:
 
 - Go to Test > Windows > Test Explorer.
 - Then select the test that you want to run and run it.
 - You can also run all your test by clicking on Run All.
 
-Test Results:
--------------
+## Test Results:
 
 - Open your solution folder in you File Explorer.
 - Go to TestResults folder.
 - Open the html file that Specflow has generated.
 
-Related Links:
---------------
+## Related Links:
 
 - Oficial documentation SpecFlow -> https://specflow.org/docs/
 - Getting started -> https://specflow.org/getting-started/
@@ -79,8 +74,7 @@ Related Links:
 	- https://github.com/techtalk/SpecFlow.Plus.Examples
 	- https://github.com/techtalk/SpecFlow-Examples
 
-Demo project notes:
--------------------
+## Demo project notes:
 
 - You can observe the folder organization.
 - In the ExampleTest folder you can observe a basic example of how to use specflow and how can we get diferent type from the imput.
