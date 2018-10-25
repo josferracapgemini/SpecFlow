@@ -1,6 +1,4 @@
-# SpecFlow
-
-Initial guide for SpecFlow:
+## Initial guide for SpecFlow:
 ---------------------------
 
 Setting up the enviroment:
@@ -18,7 +16,6 @@ Setting up the enviroment:
 
 Folders Organization:
 ---------------------
-
 - Project
 	- SpecFlow
 		- Code of the user story from JIRA -> e.g.(KSAPP_131)
@@ -36,24 +33,28 @@ How to use SpecFlow:
 --------------------
 
 1 - Create the feature file -> right click on the "Features" folder > Add > New Item > Select"SpecFlow Feature File"
+
 2 - Go to you feature file ande define all your scenarios.
-	- Given …
-	- When …
-	- Then …
+- Given …
+- When …
+- Then …
 
 3 - Right click on one of the scenarios > click on Generate Steps Definitions > Put the correct Name > Click on Generate > Select the correct Path.(follow the folders organization)
+
 4 - Go to the Spets file.
+
 5 - Set up your Step file by:
-	- Create your class variables.
-	- You have to set up the enviroment by mocking the necesary Services.
-	- Define the response of the fake call of the mocked servide.
+- Create your class variables.
+- You have to set up the enviroment by mocking the necesary Services.
+- Define the response of the fake call of the mocked servide.
+	
 6 - Implement your Steps
-	- Given …
-	- Define your class variables inputs.
-	- When …
-	- Define the actions by calling the method of the Mocked Service or the function that you need to test.
-	- Then …
-	- Define your Asserts that prove your result is what you expected.
+- Given …
+- Define your class variables inputs.
+- When …
+- Define the actions by calling the method of the Mocked Service or the function that you need to test.
+- Then …
+- Define your Asserts that prove your result is what you expected.
 
 Run the test:
 -------------
